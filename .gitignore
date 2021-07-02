@@ -1,0 +1,9 @@
+# IDE
+.idea/
+
+# build artifacts
+cmake-build-*/
+build/
+
+# macOS specific files
+.DS_Store
